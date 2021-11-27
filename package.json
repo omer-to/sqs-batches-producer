@@ -4,5 +4,8 @@
   "description": "Organizes batches and sends into SQS queue",
   "main": "dist/index.js",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.42.0"
+  }
 }
