@@ -1,0 +1,8 @@
+{
+  "name": "sqs-batches-producer",
+  "version": "1.0.0",
+  "description": "Organizes batches and sends into SQS queue",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": false
+}
